@@ -1,5 +1,5 @@
 ### 👩🏻‍💻Ana Julia 
-Me chamo Ana Julia Lins Silva, tenho 23 anos. Comecei a faculdade de Engenharia de Software no primeiro semestre de 2025, no Instituto Federal de São Paulo (campus de São Carlos).
+Me chamo Ana Julia Lins Silva, tenho 24 anos. Comecei a faculdade de Engenharia de Software no primeiro semestre de 2025, no Instituto Federal de São Paulo (campus de São Carlos).
 
 ### Linguagens e tecnologias que estou aprendendo
 <img 
