@@ -1,4 +1,4 @@
-### 👩🏻‍💻Ana Julia 
+### Ana Julia Lins Silva 
 Me chamo Ana Julia, tenho 24 anos e sou estudante de Engenharia de Software no Instituto Federal de São Paulo (campus de São Carlos).
 
 ### Linguagens e tecnologias que estou aprendendo
