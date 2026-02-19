@@ -47,15 +47,3 @@ Me chamo Ana Julia, tenho 24 anos e sou estudante de Engenharia de Software no I
 <br/>
 
 ---
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AnaJLS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
