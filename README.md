@@ -1,49 +1,28 @@
 ### Ana Julia Lins Silva 
-Me chamo Ana Julia, tenho 24 anos e sou estudante de Engenharia de Software no Instituto Federal de São Paulo (campus de São Carlos).
+Eu me chamo Ana Julia, sou estudante de Engenharia de Software no Instituto Federal de São Paulo (IFSP), campus São Carlos, e atualmente estou construindo minha trajetória na área de tecnologia por meio dos estudos, projetos acadêmicos e projetos pessoais.
 
-### Linguagens e tecnologias que estou aprendendo
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Até agora na graduação tive contato com HTML, CSS, JavaScript, Python e SQL. Tenho interesse em aprofundar mais essas linguagens e continuar aprendendo novas ferramentas. 
 
-<br/>
-<br/>
+Além da tecnologia, gosto de ler, assistir animes, ouvir música e manter uma rotina de atividades físicas.
 
----
+Contato:
+
+-Email: anajulialinssilva@outlook.com  /  anaaju.lins@gmail.com
+
+-Linkedin: www.linkedin.com/in/ana-julia-lins-silva
+
+
+___
+
+
+My name is Ana Julia, and I am a Software Engineering student at the Federal Institute of São Paulo (IFSP). I am currently building my career in technology through academic studies, university projects, and personal projects.
+
+Throughout my degree, I have worked with HTML, CSS, JavaScript, Python, and SQL. I am interested in deepening my knowledge of these technologies while continuing to learn new tools and expand my technical skills.
+
+Beyond technology, I enjoy reading, watching anime, listening to music, and maintaining a regular fitness routine.
+
+Contact
+
+-Email: [anajulialinssilva@outlook.com](mailto:anajulialinssilva@outlook.com)  / anaaju.lins@gmail.com
+
+-LinkedIn: [www.linkedin.com/in/ana-julia-lins-silva](http://www.linkedin.com/in/ana-julia-lins-silva)
